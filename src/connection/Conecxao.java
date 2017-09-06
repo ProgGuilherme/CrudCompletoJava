@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class Conecxao {
-    private static final String DRIVER = "#";
+    private static final String DRIVER = "com.mysql.jdbc.Driver";
     private static final String URL = "#";
     private static final String USER = "#";
     private static final String PASS = "#";
